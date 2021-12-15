@@ -5,8 +5,8 @@
 
 
 //Credenciales de la red a la cual nos conectaremos
-const char* ssid = "ReinoCamelot";
-const char* password = "Samsung+20"; 
+const char* ssid = "ssid";
+const char* password = "password"; 
 //Constante con la que comparar el tiempo de lecturas
 #define REPORTING_PERIOD_MS     1000
 
