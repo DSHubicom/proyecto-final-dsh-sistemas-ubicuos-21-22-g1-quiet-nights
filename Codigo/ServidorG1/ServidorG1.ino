@@ -9,8 +9,8 @@
 #include <string>
 
 //Creamos nuestra propia red
-const char* ssid= "ReinoCamelot";
-const char* password = "Samsung+20";
+const char* ssid= "ssid";
+const char* password = "password";
 
 WebServer server(80); // puerto por defecto 80
 
