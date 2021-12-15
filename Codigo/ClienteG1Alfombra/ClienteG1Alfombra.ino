@@ -2,8 +2,8 @@
 #include <HTTPClient.h>
 
 //Credenciales de la red a la cual nos conectaremos
-const char* ssid = "ReinoCamelot";
-const char* password = "Samsung+20";
+const char* ssid = "ssid";
+const char* password = "password";
 
 //Url para hacer las peticiones
 const char* esp32Server = "http://192.168.4.2/Alfombra";
