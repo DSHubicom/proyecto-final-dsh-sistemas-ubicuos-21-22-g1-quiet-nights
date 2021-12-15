@@ -2,8 +2,8 @@
 #include <HTTPClient.h>
 #include <Adafruit_MLX90614.h> //temperatura
 //Credenciales de la red a la cual nos conectaremos
-const char* ssid = "ReinoCamelot";
-const char* password = "Samsung+20";
+const char* ssid = "ssid";
+const char* password = "password";
 //  Variables del sensor de temperatura
 Adafruit_MLX90614 mlx = Adafruit_MLX90614();
 String STemperatura; 
