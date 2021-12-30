@@ -1,1 +1,1 @@
-Aquí van los esquemas de montaje propios de cada projecto
+Cabe destacar que el sensor de temperatura y el sensor de posición (tilt) utilizan la misma placa FireBeetle, pero el programa Fritzing no nos permitía definir un único esquema con una sola placa para los dos. Por lo que se ha decidido crear dos esquemas diferentes: QNChest (temperatura) y QNChest (posición).
